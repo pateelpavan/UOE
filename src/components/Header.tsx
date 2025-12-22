@@ -24,7 +24,7 @@ export function Header() {
               className="bg-white rounded-full p-2"
             >
               <img
-                src="https://instagram.fbpm3-1.fna.fbcdn.net/v/t51.2885-19/591159979_18067488545580075_7925953588105994821_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbpm3-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGm4pYRNN5J3cp9m339WMDP0m1bQ5meL1Sg75aK3k4cROLVfPRVwIaLQqRSPC73LeU&_nc_ohc=7AwSvQru52sQ7kNvwGrSzua&_nc_gid=hqmNJgqPLqMc2XZnafH3OQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afmwu3XjlFRmFY4ZkgezT5WV2XWBr2T51wMjv1PHTLNg_A&oe=694F6D58&_nc_sid=7a9f4b"
+                src="https://instagram.fbpm3-1.fna.fbcdn.net/v/t51.2885-19/591159979_18067488545580075_7925953588105994821_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbpm3-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEDr-Tq7JlQsoaaIwx5iWJQet3ELfJ0zIpfRQfQzrPdoZgLxkdjcIHshTzF6dfTWTs&_nc_ohc=7AwSvQru52sQ7kNvwGrSzua&_nc_gid=IFJ5VgHFeRxMR9mHrP1WjA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AflHiV6ZybSHAHYf8xvRuubmjL2MKT-DoE9nKllGtoEVNw&oe=694F6D58&_nc_sid=7a9f4b"
                 alt="UOE logo"
                 className="h-8 w-8 rounded-full object-cover"
                 loading="eager"
