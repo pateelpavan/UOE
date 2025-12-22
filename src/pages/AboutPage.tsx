@@ -99,7 +99,7 @@ export function AboutPage() {
           </h2>
           <div className="space-y-4 text-gray-700 dark:text-gray-300">
             <p>
-              Founded in 2024, <strong>Update On Education</strong> was born
+              Founded in 2020, <strong>Update On Education</strong> was born
               from a simple idea: education news should be accessible,
               comprehensive, and easy to understand for everyone.
             </p>
