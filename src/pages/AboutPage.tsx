@@ -138,7 +138,7 @@ export function AboutPage() {
               <Mail className="size-6" />
               <div>
                 <p className="text-sm text-blue-100">Email</p>
-                <p>info@updateonedu.com</p>
+                <p>updateoneducation@gmail.com</p>
               </div>
             </motion.div>
             <motion.div
@@ -148,7 +148,7 @@ export function AboutPage() {
               <Phone className="size-6" />
               <div>
                 <p className="text-sm text-blue-100">Phone</p>
-                <p>+1 (555) 123-4567</p>
+                <p>+91 7416472177</p>
               </div>
             </motion.div>
             <motion.div
@@ -158,7 +158,7 @@ export function AboutPage() {
               <MapPin className="size-6" />
               <div>
                 <p className="text-sm text-blue-100">Location</p>
-                <p>New York, USA</p>
+                <p>hyd,india</p>
               </div>
             </motion.div>
           </div>
