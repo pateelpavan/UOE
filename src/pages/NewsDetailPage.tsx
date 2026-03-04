@@ -10,7 +10,8 @@ const imageMap: Record<string, string> = {
   "students-learning": "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdHVkZW50cyUyMGxlYXJuaW5nfGVufDF8fHx8MTc2NTI4MzMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
   "online-learning": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBsZWFybmluZ3xlbnwxfHx8fDE3NjUzNTQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
   "science-lab": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFifGVufDF8fHx8MTc2NTM0ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080",
-  "teacher-training": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWFjaGVyJTIwdHJhaW5pbmd8ZW58MXx8fHwxNzY1Mzg0NjE2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  "teacher-training": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWFjaGVyJTIwdHJhaW5pbmd8ZW58MXx8fHwxNzY1Mzg0NjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+  "news1": "License Demerit Point System Introduced to Improve Road Safety"
 };
 
 export function NewsDetailPage() {
