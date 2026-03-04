@@ -66,6 +66,32 @@ export const newsData: NewsItem[] = [
     image: "teacher-training",
     pdfUrl: "#"
   }
+  {
+    id: "7",
+    title: "License Demerit Point System Introduced to Improve Road Safety",
+    category: "Road Safety",
+    date: "2026-04-04",
+    content: "**License Demerit Point System Introduced to Improve Road Safety**
+
+**Update On Education (#UOE) – News Report**
+
+The government has introduced a **License Demerit Point System** as part of its new road safety initiative aimed at reducing traffic violations and improving responsible driving. Under this system, drivers who break traffic rules will receive **demerit points** on their driving licenses depending on the severity of the offence.
+
+Traffic violations such as **over-speeding, drunk driving, jumping signals, reckless driving, and using a mobile phone while driving** will result in points being added to the driver's record. If a driver accumulates a certain number of demerit points within a specific time period, authorities may **suspend or cancel the driving license**.
+
+Officials say the system will help monitor repeat offenders more effectively and encourage drivers to follow traffic regulations. The initiative is also expected to **reduce road accidents and promote safer roads** across the country.
+
+Road safety experts have welcomed the move, stating that a structured penalty system can significantly improve driver behavior and accountability.
+
+Citizens are advised to strictly follow traffic rules and drive responsibly to avoid penalties under the new demerit point system.
+
+**Reported by:** Update On Education
+**Channel:** *Update On Education*
+**Hashtag:** #UOE
+",
+    image: "news1",
+    pdfUrl: "#"
+  }
 ];
 
 // Chatbot Q&A Database - Admin can add more questions and answers here
